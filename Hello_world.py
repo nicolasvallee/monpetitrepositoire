@@ -1,6 +1,7 @@
 # coding: utf-8
 
 # This file produce some printing
+# ceci est peut etre un commentaire
 
 print("Hello world")
 
